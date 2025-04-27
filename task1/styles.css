@@ -1,0 +1,58 @@
+/* SAIT WDF Camp AL {Our First Website CSS Part} */
+
+/* ðŸ“ Task 1 */
+img {
+  display: block;
+  margin: 20px auto;
+  max-width: 300px;
+}
+
+/* ðŸ“ Task 2 */
+h1 {
+  text-align: center;
+  color: #191840;
+  margin: 20px 0;
+}
+
+/* ðŸ“ Task 3 */
+body {
+  max-width: 800px;
+  height: 100vh;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 20px 40px;
+}
+
+/* ðŸ“ Task 4 */
+p,
+li {
+  color: #191840;
+}
+
+/* ðŸ“ Task 5 */
+a {
+  color: #191840;
+  font-weight: 600;
+}
+
+/* ðŸ“ Task 6 */
+a:hover {
+  color: #3a38a0;
+}
+
+/* ðŸ“ Task 7 */
+button {
+  background-color: #191840;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  display: block;
+  margin: 20px auto;
+  font-size: 16px;
+}
+
+/* ðŸ“ Task 8 */
+button:hover {
+  background-color: #3a38a0;
+}
